@@ -27,8 +27,8 @@ We used
 
 
 ## To Do
-[] add hover/on click
-[] hub functionality
+* [ ] add hover/on click
+[ ] hub functionality
 [] design form
 [] form functionality
 [] responsive view (bootstrap cols)
