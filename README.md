@@ -25,11 +25,10 @@ mostly students, because well...
 We used
 [Figma](https://www.figma.com/file/cjvKwiitQHielJbfUN1URJ/femmehacks-project?node-id=35%3A773) to prototype our web application. We were able to build the website from scratch with HTML, add styling & interactivity with CSS and JavaScript, and built a filtering feature for different activity categories using Firebase.
 
-
 ## To Do
 * [ ] add hover/on click
-[ ] hub functionality
-[] design form
-[] form functionality
-[] responsive view (bootstrap cols)
-[] implement backend
+* [ ] hub functionality
+* [ ] design form
+* [ ] form functionality
+* [ ] responsive view (bootstrap cols)
+* [ ] implement backend
