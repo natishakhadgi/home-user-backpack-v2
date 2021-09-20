@@ -1,6 +1,8 @@
 # home-user-backpack-v2
 [HUB: Home User Backpack](https://homeuserbackpack.herokuapp.com)
 
+[HUB: Home User Backpack V1](https://github.com/natishakhadgi/home-user-backpack)
+
 This project was initially created for the Femme Hacks 2021 Hackathon. Februrary 5-6, 2021.
 
 As college students ourselves, we noticed that virtual events hosted by student orgs were starting to get repetitive. We feel the frustration of having our college social activities be online.
@@ -10,7 +12,11 @@ HUB crowdsources all the fun, remote activities on the internet and organizes th
 
 ## Revisiting The Project
 
-Since the beginning of Covid, I wanted to create the HUB app. It wasn't until the Femme Hacks 2021 Hackathon, I decided to pursue this passion project. I worked with wonderful people to create a mockup and working prototype. Unfortunately, we were not able to complete the project. Because this project meant a lot to me, I decided to revisit it and start over and applying new skills and technologies (specifically React).
+Since the beginning of Covid, I wanted to create the HUB app. It wasn't until the Femme Hacks 2021 Hackathon, I decided to pursue this passion project.
+
+I worked with wonderful people to create a mockup and working prototype. Unfortunately, we were not able to complete the project. 
+
+Because this project meant a lot to me, I decided to revisit it and start over and applying new skills and technologies (specifically React).
 
 ## Design Process
 We created user personas, hi-fi mockups, and a working prototype for our website using Figma and Notion.
